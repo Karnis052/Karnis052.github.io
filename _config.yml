@@ -26,7 +26,7 @@ author:
   avatar           : "images/profile.png"
   name             : "Karnis Fatema"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer at Samsung R&D Bangladesh"
+  bio              : "Software Engineer at Samsung"
   location         : "Dhaka, Bangladesh"
   employer         : "Samsung"
   uri              : # URL
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-2687-3442"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : #
   researchgate     : "https://www.researchgate.net/profile/Karnis-Fatema"
   scopus           : # URL
 
